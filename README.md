@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <a href="https://discord.com/users/TON_ID">
+  <a href="https://discord.com/users/mesrine666">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo" />
   </a>
   <a href="https://www.twitch.tv/TON_PSEUDO">
