@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 Moi c'est PaPi</h1>
 
-<h3 align="center">💻 Développeur Full-Stack · Passionné de code & d'interfaces</h3>
+<h3 align="center">Développeur Full-Stack · Passionné de code & d'interfaces</h3>
 
 ###
 
@@ -33,9 +33,6 @@
 <div align="center">
   <a href="https://discord.com/users/mesrine666">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo" />
-  </a>
-  <a href="https://www.twitch.tv/TON_PSEUDO">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitch logo" />
   </a>
   <a href="https://linkedin.com/in/TON_PROFIL">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
@@ -85,5 +82,5 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON_PSEUDO&label=Visiteurs&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mesrine67&label=Visiteurs&color=blueviolet&style=flat" alt="profile views" />
 </div>
