@@ -62,21 +62,24 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="160" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mesrine67&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mesrine67&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="160" alt="top langs" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TON_PSEUDO&locale=fr&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Mesrine67&locale=fr&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" />
 </div>
 
 ###
 
+## 👾 Mes contributions en mode Pac-Man
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TON_PSEUDO/TON_PSEUDO/pacman-output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TON_PSEUDO/TON_PSEUDO/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mesrine67/Mesrine67/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mesrine67/Mesrine67/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mesrine67/Mesrine67/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
