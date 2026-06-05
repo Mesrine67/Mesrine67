@@ -1,27 +1,31 @@
 <h1 align="center">Hey 👋 Moi c'est PaPi</h1>
 
-<h3 align="center">🎮 Développeur FiveM · Lua · React · Full-Stack</h3>
+<h3 align="center">💻 Développeur Full-Stack · Passionné de code & d'interfaces</h3>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=lua" height="55" alt="lua logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwind logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=lua" height="50" alt="lua logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
 </div>
 
 ###
@@ -42,10 +46,21 @@
 
 ## 🚀 À propos de moi
 
-- 🎮 Je développe des **scripts et systèmes pour serveurs FiveM**
-- 🔧 Stack principale : **Lua**, **React/HTML/CSS** (NUI), **OxMySQL**, **ox_lib**
-- 🌱 J'apprends en ce moment à approfondir **React** et l'**architecture backend**
-- 💡 J'aime créer des **interfaces modernes** (scoreboards, calendriers de récompenses, HUD...)
+- 💻 Développeur **full-stack** : je touche aussi bien au **front** qu'au **back**
+- 🎨 J'adore concevoir des **interfaces modernes & soignées** (HUD, dashboards, scoreboards, calendriers interactifs...)
+- ⚙️ Je travaille avec **Lua**, **JavaScript/TypeScript**, **React** et des bases de données **MySQL**
+- 🧠 Je m'intéresse à l'**architecture backend**, l'**optimisation** et les **bonnes pratiques de code**
+- 🌱 En constante évolution — j'apprends, je teste, je casse, je répare 😄
+- 🤝 Toujours partant pour collaborer sur des projets fun et ambitieux
+
+###
+
+## 🛠️ Ce que je sais faire
+
+- **Front-end** → React, HTML, CSS, Tailwind, interfaces dynamiques & responsive
+- **Back-end** → Node.js, gestion de bases de données, API & callbacks
+- **Scripting** → Lua (logique métier, systèmes interactifs)
+- **Outils** → Git, debugging, optimisation de performances
 
 ###
 
@@ -68,3 +83,7 @@
 </picture>
 
 ###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TON_PSEUDO&label=Visiteurs&color=blueviolet&style=flat" alt="profile views" />
+</div>
