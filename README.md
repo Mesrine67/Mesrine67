@@ -61,15 +61,22 @@
 
 ###
 
+## 📊 Mes statistiques GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mesrine67&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mesrine67&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="160" alt="top langs" />
+  <a href="https://github.com/Mesrine67">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mesrine67&theme=dracula" alt="profile-details" />
+  </a>
 </div>
 
-###
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mesrine67&theme=dracula" alt="repos-per-language" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mesrine67&theme=dracula" alt="most-commit-language" height="170" />
+</div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mesrine67&locale=fr&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mesrine67&theme=dracula" alt="stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mesrine67&theme=dracula&utcOffset=2" alt="productive-time" height="170" />
 </div>
 
 ###
