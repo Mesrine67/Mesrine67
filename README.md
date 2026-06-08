@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 Moi c'est PaPi</h1>
 
-<h3 align="center">Développeur Full-Stack · Passionné de code & d'interfaces</h3>
+<h3 align="center">Développeur Full-Stack · Passionné de code</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 ## 🚀 À propos de moi
 
 - 💻 Développeur **full-stack** : je touche aussi bien au **front** qu'au **back**
-- 🎨 J'adore concevoir des **interfaces modernes & soignées** (HUD, dashboards, scoreboards, calendriers interactifs...)
+- 🎨 J'adore concevoir des **interfaces modernes & soignées** (HUD, dashboards, scoreboards...)
 - ⚙️ Je travaille avec **Lua**, **JavaScript/TypeScript**, **React** et des bases de données **MySQL**
 - 🧠 Je m'intéresse à l'**architecture backend**, l'**optimisation** et les **bonnes pratiques de code**
 - 🌱 En constante évolution — j'apprends, je teste, je casse, je répare 😄
