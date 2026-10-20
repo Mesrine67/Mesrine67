@@ -1,96 +1,62 @@
-<h1 align="center">Hey 👋 Moi c'est PaPi</h1>
+<h1 align="center">Salut, moi c’est PaPi 👋</h1>
 
-<h3 align="center">Développeur Full-Stack · Passionné de code</h3>
+<p align="center">
+  <strong>Je développe des outils, des applications et des interfaces autour de FXMP, GTA et FiveM.</strong>
+</p>
 
-###
+<p align="center">
+  <a href="https://github.com/Mesrine67?tab=repositories">Mes dépôts</a>
+  ·
+  <a href="https://github.com/Mesrine67/fxmpOS">FXMP OS</a>
+  ·
+  <a href="https://github.com/Mesrine67/rage-cli">Outils RAGE</a>
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=lua" height="50" alt="lua logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,lua,rust,cpp,tauri,postgres,docker,git" alt="Technologies : TypeScript, JavaScript, React, Next.js, Node.js, Lua, Rust, C++, Tauri, PostgreSQL, Docker et Git" />
+</p>
 
-###
+## Ce que je construis
 
-<div align="center">
-  <a href="https://discord.com/users/mesrine666">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo" />
-  </a>
-  <a href="https://linkedin.com/in/TON_PROFIL">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
-  </a>
-</div>
+- **FXMP** — applications desktop et outils pour travailler avec les assets de GTA V, FiveM et RedM.
+- **Applications web et bots** — tableaux de bord, automatisations et intégrations communautaires.
+- **Outils RAGE** — exploration de formats, archives, ressources et contenus de jeux.
+- **Interfaces** — expériences web et UI pensées pour être claires, réactives et agréables à utiliser.
 
-###
+## Quelques projets
 
-## 🚀 À propos de moi
+| Projet | Description |
+| --- | --- |
+| [FXMP OS](https://github.com/Mesrine67/fxmpOS) | Application desktop FXMP et mises à jour signées. |
+| [rage-cli](https://github.com/Mesrine67/rage-cli) | Outils en ligne de commande pour explorer les fichiers RAGE. |
+| [rage-formats](https://github.com/Mesrine67/rage-formats) | Parsers de ressources RAGE : textures, drawables, collisions et autres formats. |
+| [rpf-archive-rs](https://github.com/Mesrine67/rpf-archive-rs) | Lecture et écriture d’archives RPF et IMG en Rust. |
+| [Vespucci](https://github.com/Mesrine67/vespucci) | Visualiseur et éditeur de cartes GTA V utilisant les shaders du jeu. |
+| [OpenChamber Prompt Studio](https://github.com/Mesrine67/openchamber-prompt-studio) | Extension OpenChamber pour préparer et améliorer des prompts avec le contexte du projet. |
+| [Skred](https://github.com/Mesrine67/skred) | Petit outil pour flouter des visages avant de publier une image. |
 
-- 💻 Développeur **full-stack** : je touche aussi bien au **front** qu'au **back**
-- 🎨 J'adore concevoir des **interfaces modernes & soignées** (HUD, dashboards, scoreboards...)
-- ⚙️ Je travaille avec **Lua**, **JavaScript/TypeScript**, **React** et des bases de données **MySQL**
-- 🧠 Je m'intéresse à l'**architecture backend**, l'**optimisation** et les **bonnes pratiques de code**
-- 🌱 En constante évolution — j'apprends, je teste, je casse, je répare 😄
-- 🤝 Toujours partant pour collaborer sur des projets fun et ambitieux
+> Certains dépôts sont des forks que je fais évoluer ou auxquels je contribue ; leur dépôt d’origine et leur licence restent indiqués sur GitHub.
 
-###
+## Ma façon de travailler
 
-## 🛠️ Ce que je sais faire
+J’aime partir d’un besoin concret, construire une solution utilisable, puis la faire évoluer avec des retours et des tests. Je travaille autant sur l’interface que sur les services, l’intégration et le déploiement.
 
-- **Front-end** → React, HTML, CSS, Tailwind, interfaces dynamiques & responsive
-- **Back-end** → Node.js, gestion de bases de données, API & callbacks
-- **Scripting** → Lua (logique métier, systèmes interactifs)
-- **Outils** → Git, debugging, optimisation de performances
-
-###
-
-## 📊 Mes statistiques GitHub
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/Mesrine67">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mesrine67&theme=dracula" alt="profile-details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mesrine67&theme=github_dark" alt="Activité GitHub de Mesrine67" />
   </a>
-</div>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mesrine67&theme=dracula" alt="repos-per-language" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mesrine67&theme=dracula" alt="most-commit-language" height="170" />
-</div>
+<details>
+  <summary>Voir mon graphique de contributions</summary>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mesrine67/Mesrine67/pacman-output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mesrine67/Mesrine67/pacman-output/pacman-contribution-graph.svg" />
+    <img alt="Graphique Pac-Man des contributions GitHub" src="https://raw.githubusercontent.com/Mesrine67/Mesrine67/pacman-output/pacman-contribution-graph.svg" />
+  </picture>
+</details>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mesrine67&theme=dracula" alt="stats" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mesrine67&theme=dracula&utcOffset=2" alt="productive-time" height="170" />
-</div>
-
-###
-
-## 👾 Mes contributions en mode Pac-Man
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mesrine67/Mesrine67/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mesrine67/Mesrine67/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mesrine67/Mesrine67/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mesrine67&label=Visiteurs&color=blueviolet&style=flat" alt="profile views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mesrine67&label=Visites&color=7c3aed&style=flat" alt="Compteur de visites du profil" />
+</p>
