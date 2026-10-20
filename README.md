@@ -28,14 +28,10 @@
 | Projet | Description |
 | --- | --- |
 | [FXMP OS](https://github.com/Mesrine67/fxmpOS) | Application desktop FXMP et mises à jour signées. |
-| [rage-cli](https://github.com/Mesrine67/rage-cli) | Outils en ligne de commande pour explorer les fichiers RAGE. |
-| [rage-formats](https://github.com/Mesrine67/rage-formats) | Parsers de ressources RAGE : textures, drawables, collisions et autres formats. |
-| [rpf-archive-rs](https://github.com/Mesrine67/rpf-archive-rs) | Lecture et écriture d’archives RPF et IMG en Rust. |
-| [Vespucci](https://github.com/Mesrine67/vespucci) | Visualiseur et éditeur de cartes GTA V utilisant les shaders du jeu. |
-| [OpenChamber Prompt Studio](https://github.com/Mesrine67/openchamber-prompt-studio) | Extension OpenChamber pour préparer et améliorer des prompts avec le contexte du projet. |
-| [Skred](https://github.com/Mesrine67/skred) | Petit outil pour flouter des visages avant de publier une image. |
-
-> Certains dépôts sont des forks que je fais évoluer ou auxquels je contribue ; leur dépôt d’origine et leur licence restent indiqués sur GitHub.
+| [FXMP Tools (CFX Tools)](https://github.com/Mesrine67/fxmp-tools-releases) | Application de bureau pour inspecter et préparer les assets GTA V, FiveM et RedM. Le dépôt lié publie les installateurs et mises à jour. |
+| [Dashboard et bot Discord FXMP](https://discord.fxmp.org/) | Tableau de bord et bot musical Discord, avec lecture, file d’attente et commandes vocales. |
+| [FXMP Beta](https://beta.fxmp.org/) | Environnement web de test et de développement de l’écosystème FXMP. |
+| Bot Telegram FXMP | Bot privé en TypeScript pour les outils et services FXMP. |
 
 ## Ma façon de travailler
 
